@@ -22,6 +22,6 @@ yarn-error.log*
 
 # file
 /modals/Category.js
-/modals/Category.js
+/routes/category.js
 /routes/stripe.js
 package-lock.json
