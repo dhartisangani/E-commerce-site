@@ -24,7 +24,3 @@ yarn-error.log*
 
 # files 
 src/Configs/EnvironmentConfig.ts
-reportWebVitals.ts
-react-app-env.d.ts
-App.test.tsx
-package-lock.json

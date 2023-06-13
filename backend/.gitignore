@@ -24,4 +24,3 @@ yarn-error.log*
 /modals/Category.js
 /routes/category.js
 /routes/stripe.js
-package-lock.json
